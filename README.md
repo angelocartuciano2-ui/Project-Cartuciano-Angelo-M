@@ -1,2 +1,2 @@
-# Project-Cartuciano-Angelo-M.
+# Project-Cartuciano-Angelo-M
 rock, paper, scissor game
