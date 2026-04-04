@@ -49,4 +49,6 @@ function playGame(playerChoice) {
      else {
         result = "Computer Wins!";
     }
+
+     document.getElementById("result").textContent = result;
 }
